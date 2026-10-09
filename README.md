@@ -5,6 +5,8 @@
 
 ## 遊ぶ
 
+[公開ゲームを開く](https://genkun-test.github.io/extend-world-star-dungeon/)
+
 公開URLを開き、主人公を選び、「迷宮に入る」から開始します。
 毎回変わる3つの迷宮（全21階）、それぞれの守護者を攻略してください。
 
